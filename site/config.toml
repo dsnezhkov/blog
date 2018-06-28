@@ -1,4 +1,0 @@
-baseURL = "dsnezhkov.github.io/blog/"
-languageCode = "en-us"
-title = "Blog"
-publishDir = "docs"
